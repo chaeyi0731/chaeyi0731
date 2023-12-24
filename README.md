@@ -1,5 +1,5 @@
 ### Hi 🧸
-I like cute things very much 💖
+I like cute things very much 💖🫧
 
 <!--
 **chaeyi0731/chaeyi0731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
