@@ -1,6 +1,8 @@
 ### Hi 🧸
 I like cute things very much 💖🫧
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyi0731&show_icons=true&theme=radical)
 <!--
 **chaeyi0731/chaeyi0731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
