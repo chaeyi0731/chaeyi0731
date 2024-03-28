@@ -3,7 +3,6 @@ I like cute things very much 💖🫧
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyi0731)](https://github.com/anuraghazra/github-readme-stats)
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 <!--
 **chaeyi0731/chaeyi0731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
